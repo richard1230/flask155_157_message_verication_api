@@ -1,0 +1,9 @@
+https://www.bootcss.com/----》https://v3.bootcss.com/getting-started/
+-----》
+https://v3.bootcss.com/examples/signin/  (复制它的源码，将里面与IE相关的都删了)
+https://v3.bootcss.com/examples/signin/signin.css (还有一个css)
+
+
+
+需要注意的是:
+在浏览器里面一定要涮新，或者在network里面要把Disable cache打上勾,不然可能看不见效果!

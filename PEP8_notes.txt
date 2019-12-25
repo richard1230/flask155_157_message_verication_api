@@ -1,0 +1,4 @@
+pep8标准快捷键:
+ctrl+alt+L
+Mac下为:
+command+alt+L
